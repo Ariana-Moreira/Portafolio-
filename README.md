@@ -20,13 +20,12 @@ Generar una tabla comparativa de perfiles, la lista de verificación de proyecto
 | Característica | Repositorio 1 | Repositorio 2 | Repositorio 3 |
 | --- | --- | --- | --- |
 |  | chess | neopop-web | Repositorio 3 |
-| Descripción corta | Es una herramienta para aprender las aperturas de ajedrez utilizando datos de juegos reales |  | |
-| README | Muestra una demo de lo que es el juego donde se puede ver la información e interactuar con este | | |
-| Licencia y archivo .gitignore | No tiene licencia| | |
-| Historial de commits | No hay parece que solo subio el arhivo y no ha vuelto a editar | | |
-| Uso de Issues, Pull Requests, ramas y Releases | No existen por la misma razón, no hay historial de commits | | |
-| Estructura de carpetas ordenada | Si por src y dentro los recursos y actividades| | |
-
+| Descripción corta | Es una herramienta para aprender las aperturas de ajedrez utilizando datos de juegos reales | Es una biblioteca integrada para poder usar en aplicaciones web manteniéndose fiel al diseño CRED | Simulador de conducción autónoma de Udacity|
+| README | Muestra una demo de lo que es el juego donde se puede ver la información e interactuar con este | Presentación de  la bilbioteca, cómo se usa e instala, colaboradores y licencia | Documentación del proyecto, donde usarlo y con que |
+| Licencia y archivo .gitignore | No tiene licencia. si el archivo gitignore| Licencia Apache 2.0 y archivo gitignore| Licencia MIT y gitignore |
+| Historial de commits | No hay parece que solo subio el arhivo y no ha vuelto a editar | No hay historial de commits, la rama main esta 15 commits atrasado | No hay historial de commits |
+| Uso de Issues, Pull Requests, ramas y Releases | No existen por la misma razón, no hay historial de commits | No hay solo el mensaje de la falta de actualización del repositorio actual con respecto al main local | Existe un issues sobre una pregunta dentro del archivo |
+| Estructura de carpetas ordenada | Si por src y dentro los recursos y actividades| Las carpetas que son de estilos si estan ordenadas según su extensión y demás | Ordenado según lo que utilizó imagenes, referencias y archivos de código |
 
 ## 3. Diagnóstico de mis Repositorios
 
