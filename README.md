@@ -39,8 +39,13 @@ Generar una tabla comparativa de perfiles, la lista de verificación de proyecto
 | Estructura de carpetas ordenada | Si por src y según que tipo de lógica tenia cada código | Ordenada pero muy complicado de entender | Más fáci de entender que contiene cada carpeta y la lógica que hay detrás |
 
 ## 4. Requisitos Funcionales que debe mostrar mi perfil
-* A
-* B
+
+* Links de mis habilidades y forma de verificarlo
+* Poder navegar dentro de mi carpeta de presentación con un click
+* Poder ver mis proyectos elaborados
+* Link de mi información y formas de cpntactarme
+
 ## 4.1 Requisitos no funcionales
-
-
+* Iconos de mis redes sociales o lenguajes que se 
+* Estadisticas de tiempo gastado según lo trabajado y en que
+* Imagenes de gustos 
