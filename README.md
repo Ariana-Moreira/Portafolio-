@@ -31,20 +31,16 @@ Generar una tabla comparativa de perfiles, la lista de verificación de proyecto
 
 | Característica | Repositorio 1 | Repositorio 2 | Repositorio 3 |
 | --- | --- | --- | --- |
-| Descripción corta | | | |
-| README | | | |
-| Licencia y archivo .gitignore | | | |
-| Historial de commits | | | |
-| Uso de Issues, Pull Requests, ramas y Releases | | | |
-| Estructura de carpetas ordenada | | | |
+| Descripción corta | Taller de Diseño sobre patrones creacionales | Proyecto de POO sobre una App de banco | Proyecto de estructuras sobre una aplicación de control de basura |
+| README |  Cuenta con la información proporcionada por el profesor estructuras de carpetas y que podemos utilizar| Vacio, no tiene información| No tiene |
+| Licencia y archivo .gitignore | No tiene ninguna de las dos| No tiene licencia y si gitignore | Solo tiene gitignore con una linea |
+| Historial de commits | Dos de la unión de ramas| Cuatro commits de mi parte | Seis commits y no puedo ver más por no tener acceso |
+| Uso de Issues, Pull Requests, ramas y Releases | Una rama existente y ningún Pull Requests activo | No tiene uso de ramas| No tiene |
+| Estructura de carpetas ordenada | Si por src y según que tipo de lógica tenia cada código | Ordenada pero muy complicado de entender | Más fáci de entender que contiene cada carpeta y la lógica que hay detrás |
 
-
-## 4. Requisitos Definidos
-
-**Requisitos Funcionales qué debe mostrar mi perfil**
+## 4. Requisitos Funcionales que debe mostrar mi perfil
 * A
 * B
-
-**Requisitos no funcionales: legibilidad, accesibilidad, mantenibilidad**
+## 4.1 Requisitos no funcionales
 
 
