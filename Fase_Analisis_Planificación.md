@@ -49,3 +49,16 @@ Generar una tabla comparativa de perfiles, la lista de verificación de proyecto
 * Iconos de mis redes sociales o lenguajes que se 
 * Estadisticas de tiempo gastado según lo trabajado y en que
 * Imagenes de gustos 
+
+## FASE 2
+
+### Estructura del Perfil ###
+
+* # Sobre mí
+    * Mis gustos, carrera que estoy cursando y cursos que haya hecho 
+* # Áreas de interés
+    * Que información me gusta, que partes de la tecnología o carrera me atraen
+* # Habilidades
+    * Blandas, lenguajes de programación que conozco, etc
+* # Contacto
+    * Información a mis perfiles de LinkedIn, Twitter (X), Instagram y gmail
